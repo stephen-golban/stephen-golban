@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey 👋, This is Stephen Golban
+#### React Developer /  Web developer
 
-<!--
-**stephen-golban/stephen-golban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-golban.stephen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:golban.stephen@gmail.com)](mailto:golban.stephen@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-stephengolban-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephengolban/)](https://www.linkedin.com/in/stephen-golban/) [![Github Badge](https://img.shields.io/badge/-stephengolban-grey?style=flat&logo=github&logoColor=white&link=https://github.com/stephen-golban/)](https://www.github.com/stephen-golban/) <p align='left'>I'm Stephen (natively Stefan) from Republic of Moldova, I'm a "die-hard" web developer and I code almost daily. I mainly focus on creating responsive and scalable websites in react. I've been using react for more than 1.5 years already and I love using it because "React makes it painless to create interactive UIs".</p>
 
-Here are some ideas to get you started:
+## Skills & tech
+* React / Next Js 
+* JavaScript / TypeScript 
+* Node.js / Nest.js
+* Redux / REST APIs
+* Tailwindcss/ SCSS
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=stephen-golban alt=stephengolban /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=stephengolban&show_icons=true&include_all_commits=true)](https://github.com/stephengolban/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-golban&layout=compact)](https://github.com/stephengolban/github-readme-stats)
+
+
+![Profile views](https://gpvc.arturio.dev/stephen-golban)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-golban&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
