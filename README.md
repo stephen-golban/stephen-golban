@@ -1,3 +1,5 @@
+![Banner](https://github.com/stephen-golban/stephen-golban/blob/main/banner.png)
+
 ## Hey 👋, This is Stephen Golban
 #### React Developer /  Web developer
 
@@ -11,12 +13,7 @@
 * Redux / REST APIs
 * Tailwindcss/ SCSS
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=stephen-golban alt=stephengolban /> </p>
+<p align=left> <img src=https://gpvc.arturio.dev/stephen-golban alt=stephengolban /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=stephengolban&show_icons=true&include_all_commits=true)](https://github.com/stephengolban/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=stephen-golban&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/stephengolban/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-golban&layout=compact)](https://github.com/stephengolban/github-readme-stats)
-
-
-![Profile views](https://gpvc.arturio.dev/stephen-golban)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-golban&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
