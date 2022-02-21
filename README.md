@@ -4,7 +4,7 @@
 #### React Developer /  Web developer
 
 [![Gmail Badge](https://img.shields.io/badge/-golban.stephen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:golban.stephen@gmail.com)](mailto:golban.stephen@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-stephengolban-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephengolban/)](https://www.linkedin.com/in/stephen-golban/) [![Github Badge](https://img.shields.io/badge/-stephengolban-grey?style=flat&logo=github&logoColor=white&link=https://github.com/stephen-golban/)](https://www.github.com/stephen-golban/) <p align='left'>I'm Stephen (natively Stefan) from Republic of Moldova, I'm a "die-hard" web developer and I code almost daily. I mainly focus on creating responsive and scalable websites in react. I've been using react for more than 1.5 years already and I love using it because "React makes it painless to create interactive UIs".</p>
+[![Linkedin Badge](https://img.shields.io/badge/-stephengolban-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephengolban/)](https://www.linkedin.com/in/stephen-golban/) [![Github Badge](https://img.shields.io/badge/-stephengolban-grey?style=flat&logo=github&logoColor=white&link=https://github.com/stephen-golban/)](https://www.github.com/stephen-golban/) <p align='left'>I'm Stephen (natively Stefan) from Republic of Moldova, I'm a "die-hard" web developer and I code almost daily. I love learning something new and to learn/follow some of the best practices. *Next.js enthuziast*".</p>
 
 ## Skills & tech
 * React / Next Js 
