@@ -8,7 +8,7 @@
 | Frontend        | Backend        | State Management | Styling        | Others           |
 |-----------------|----------------|------------------|----------------|------------------|
 | React           | NestJS         | Redux            | TailwindCSS    | GraphQL          |
-| React Native    | PHP            | Zustand          | SCSS           | Prisma           |
+| React Native    | Next.js        | Zustand          | SCSS           | Prisma           |
 | Expo            | REST APIs      | Context          | rn-restyle     | TypeScript       |
-| Next.js         | Next.js        |                  |                | REST             |
+| Next.js         | PHP            |                  |                | REST             |
 
